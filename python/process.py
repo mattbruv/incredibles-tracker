@@ -7,14 +7,14 @@ from commits import getCommitData, writeCommitData
 from helpers import diffToLines, exportJS, getFunctionDict, lineToChangeObject, makeDirectory
 
 # Change these parameters
-decompPath = "../../bfbbdecomp/"
-beginAtCommit = "b99478c01b"
+decompPath = "../../incredibles/"
+beginAtCommit = "6badd81714d9cd7"
 
 # The files that match the paths in this list
 # will be checked for assembly differences
 relevantPaths = [
     "asm/Core/**",
-    "asm/Game/**",
+    "asm/GAME/**",
 ]
 
 # '^' includes the commit
@@ -78,7 +78,7 @@ def process():
         pass
     writeApi(functions)
     writeCommitData(commitData)
-    writeFiles()
+    #writeFiles()
     open("../data/functions.js",
          "w").write(exportJS({
              "FUNCTIONS": functions  #

@@ -2,8 +2,8 @@ from os.path import supports_unicode_filenames
 from symbols import getSymbols
 import json
 
-gameCodeBegin = 0x800058E0
-gameCodeEnd = 0x80196880
+gameCodeBegin = 0x80005800 
+gameCodeEnd = 0x801FA660 
 
 
 def isGameFunction(symbol):
@@ -45,4 +45,4 @@ def createFunctionsFile():
     open("json/functions.json", "w").write(json.dumps(funcDict, indent=2))
 
 
-# createFunctionsFile()
+createFunctionsFile()
