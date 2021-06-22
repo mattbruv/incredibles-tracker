@@ -78,7 +78,7 @@ def process():
         pass
     writeApi(functions)
     writeCommitData(commitData)
-    #writeFiles()
+    writeFiles()
     open("../data/functions.js",
          "w").write(exportJS({
              "FUNCTIONS": functions  #

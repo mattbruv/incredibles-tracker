@@ -1,1 +1,1727 @@
-[]
+[
+  {
+    "start": "80005800",
+    "end": "80006624",
+    "path": "asm/Core/x/iCamera.s"
+  },
+  {
+    "start": "80006628",
+    "end": "8000B00C",
+    "path": "asm/Core/x/xAnim.s"
+  },
+  {
+    "start": "8000B010",
+    "end": "8000C49C",
+    "path": "asm/Core/x/xBallPhysics.s"
+  },
+  {
+    "start": "8000C4A0",
+    "end": "8000C600",
+    "path": "asm/Core/x/xBase.s"
+  },
+  {
+    "start": "8000C604",
+    "end": "8000C650",
+    "path": "asm/Core/x/xBehaveGoalSimple.s"
+  },
+  {
+    "start": "8000C654",
+    "end": "8000C6D4",
+    "path": "asm/Core/x/xBehaveMgr.s"
+  },
+  {
+    "start": "8000C6D8",
+    "end": "8000D4A0",
+    "path": "asm/Core/x/xbinio.s"
+  },
+  {
+    "start": "8000D4A4",
+    "end": "8000E630",
+    "path": "asm/Core/x/xBound.s"
+  },
+  {
+    "start": "8000E634",
+    "end": "80010778",
+    "path": "asm/Core/x/xCam.s"
+  },
+  {
+    "start": "8001077C",
+    "end": "800134C0",
+    "path": "asm/Core/x/xCamSupport.s"
+  },
+  {
+    "start": "800134C4",
+    "end": "80015238",
+    "path": "asm/Core/x/xClumpColl.s"
+  },
+  {
+    "start": "8001523C",
+    "end": "80016464",
+    "path": "asm/Core/x/xCM.s"
+  },
+  {
+    "start": "80016468",
+    "end": "8001BF4C",
+    "path": "asm/Core/x/xCollide.s"
+  },
+  {
+    "start": "8001BF50",
+    "end": "8001C1EC",
+    "path": "asm/Core/x/xCollideFast.s"
+  },
+  {
+    "start": "8001C1F0",
+    "end": "8001C590",
+    "path": "asm/Core/x/xCounter.s"
+  },
+  {
+    "start": "8001C594",
+    "end": "8001C6FC",
+    "path": "asm/Core/x/xCurveAsset.s"
+  },
+  {
+    "start": "8001C700",
+    "end": "8001E680",
+    "path": "asm/Core/x/xCutscene.s"
+  },
+  {
+    "start": "8001E684",
+    "end": "8001E6E8",
+    "path": "asm/Core/x/xDebug.s"
+  },
+  {
+    "start": "8001E6EC",
+    "end": "80024E2C",
+    "path": "asm/Core/x/xDecal.s"
+  },
+  {
+    "start": "80024E30",
+    "end": "80028A78",
+    "path": "asm/Core/x/xEnt.s"
+  },
+  {
+    "start": "80028A7C",
+    "end": "8002B140",
+    "path": "asm/Core/x/xEntBoulder.s"
+  },
+  {
+    "start": "8002B144",
+    "end": "8002BDD0",
+    "path": "asm/Core/x/xEntDrive.s"
+  },
+  {
+    "start": "8002BDD4",
+    "end": "8002ECB8",
+    "path": "asm/Core/x/xEntMotion.s"
+  },
+  {
+    "start": "8002ECBC",
+    "end": "8002EE80",
+    "path": "asm/Core/x/xEnv.s"
+  },
+  {
+    "start": "8002EE84",
+    "end": "8002F100",
+    "path": "asm/Core/x/xEvent.s"
+  },
+  {
+    "start": "8002F104",
+    "end": "8002F538",
+    "path": "asm/Core/x/xFactory.s"
+  },
+  {
+    "start": "8002F53C",
+    "end": "8002F974",
+    "path": "asm/Core/x/xFFX.s"
+  },
+  {
+    "start": "8002F978",
+    "end": "8002FBBC",
+    "path": "asm/Core/x/xFMV.s"
+  },
+  {
+    "start": "8002FBC0",
+    "end": "8002FDA4",
+    "path": "asm/Core/x/xFog.s"
+  },
+  {
+    "start": "8002FDA8",
+    "end": "80037C34",
+    "path": "asm/Core/x/xFont.s"
+  },
+  {
+    "start": "80037C38",
+    "end": "8003A4D4",
+    "path": "asm/Core/x/xFX.s"
+  },
+  {
+    "start": "8003A4D8",
+    "end": "8003B5A8",
+    "path": "asm/Core/x/xGrid.s"
+  },
+  {
+    "start": "8003B5AC",
+    "end": "8003BB2C",
+    "path": "asm/Core/x/xGroup.s"
+  },
+  {
+    "start": "8003BB30",
+    "end": "8003BE60",
+    "path": "asm/Core/x/xHierarchyBound.s"
+  },
+  {
+    "start": "8003BE64",
+    "end": "8003C7D8",
+    "path": "asm/Core/x/xhipio.s"
+  },
+  {
+    "start": "8003C7DC",
+    "end": "8003DEFC",
+    "path": "asm/Core/x/xHud.s"
+  },
+  {
+    "start": "8003DF00",
+    "end": "8003E38C",
+    "path": "asm/Core/x/xHudFontMeter.s"
+  },
+  {
+    "start": "8003E390",
+    "end": "8003E864",
+    "path": "asm/Core/x/xHudMeter.s"
+  },
+  {
+    "start": "8003E868",
+    "end": "8003EB10",
+    "path": "asm/Core/x/xHudModel.s"
+  },
+  {
+    "start": "8003EB14",
+    "end": "8003F29C",
+    "path": "asm/Core/x/xHudUnitMeter.s"
+  },
+  {
+    "start": "8003F2A0",
+    "end": "8003F924",
+    "path": "asm/Core/x/xIni.s"
+  },
+  {
+    "start": "8003F928",
+    "end": "8003FAD4",
+    "path": "asm/Core/x/xJaw.s"
+  },
+  {
+    "start": "8003FAD8",
+    "end": "80041318",
+    "path": "asm/Core/x/xJSP.s"
+  },
+  {
+    "start": "8004131C",
+    "end": "800430F4",
+    "path": "asm/Core/x/xLaserBolt.s"
+  },
+  {
+    "start": "800430F8",
+    "end": "8004350C",
+    "path": "asm/Core/x/xLightKit.s"
+  },
+  {
+    "start": "80043510",
+    "end": "80044AA0",
+    "path": "asm/Core/x/xMath.s"
+  },
+  {
+    "start": "80044AA4",
+    "end": "80049740",
+    "path": "asm/Core/x/xMath3.s"
+  },
+  {
+    "start": "80049744",
+    "end": "8004A154",
+    "path": "asm/Core/x/xMemMgr.s"
+  },
+  {
+    "start": "8004A158",
+    "end": "8004BCD0",
+    "path": "asm/Core/x/xModel.s"
+  },
+  {
+    "start": "8004BCD4",
+    "end": "8004D73C",
+    "path": "asm/Core/x/xModelBucket.s"
+  },
+  {
+    "start": "8004D740",
+    "end": "8004DB24",
+    "path": "asm/Core/x/xMorph.s"
+  },
+  {
+    "start": "8004DB28",
+    "end": "8004E128",
+    "path": "asm/Core/x/xMovePoint.s"
+  },
+  {
+    "start": "8004E12C",
+    "end": "8004E51C",
+    "path": "asm/Core/x/xNavigationMeshAsset.s"
+  },
+  {
+    "start": "8004E520",
+    "end": "8004ECE0",
+    "path": "asm/Core/x/xOneLinerManager.s"
+  },
+  {
+    "start": "8004ECE4",
+    "end": "8004F53C",
+    "path": "asm/Core/x/xOneLinerPlayer.s"
+  },
+  {
+    "start": "8004F540",
+    "end": "8004F88C",
+    "path": "asm/Core/x/xordarray.s"
+  },
+  {
+    "start": "8004F890",
+    "end": "8004FF78",
+    "path": "asm/Core/x/xPad.s"
+  },
+  {
+    "start": "8004FF7C",
+    "end": "8004FF98",
+    "path": "asm/Core/x/xParEmitter.s"
+  },
+  {
+    "start": "8004FF9C",
+    "end": "8004FFB8",
+    "path": "asm/Core/x/xParSys.s"
+  },
+  {
+    "start": "8004FFBC",
+    "end": "80050684",
+    "path": "asm/Core/x/xPartition.s"
+  },
+  {
+    "start": "80050688",
+    "end": "80053474",
+    "path": "asm/Core/x/xpkrsvc.s"
+  },
+  {
+    "start": "80053478",
+    "end": "8005415C",
+    "path": "asm/Core/x/xPtankPool.s"
+  },
+  {
+    "start": "80054160",
+    "end": "800548F8",
+    "path": "asm/Core/x/xQuickCull.s"
+  },
+  {
+    "start": "800548FC",
+    "end": "80055118",
+    "path": "asm/Core/x/xRand.s"
+  },
+  {
+    "start": "8005511C",
+    "end": "80055184",
+    "path": "asm/Core/x/xRegionSupport.s"
+  },
+  {
+    "start": "80055188",
+    "end": "800553C0",
+    "path": "asm/Core/x/xRenderState.s"
+  },
+  {
+    "start": "800553C4",
+    "end": "80055458",
+    "path": "asm/Core/x/xRMemData.s"
+  },
+  {
+    "start": "8005545C",
+    "end": "80055E28",
+    "path": "asm/Core/x/xRumbleEmitter.s"
+  },
+  {
+    "start": "80055E2C",
+    "end": "80056410",
+    "path": "asm/Core/x/xRumbleManager.s"
+  },
+  {
+    "start": "80056414",
+    "end": "80058984",
+    "path": "asm/Core/x/xsavegame.s"
+  },
+  {
+    "start": "80058988",
+    "end": "8005AA48",
+    "path": "asm/Core/x/xScene.s"
+  },
+  {
+    "start": "8005AA4C",
+    "end": "8005C874",
+    "path": "asm/Core/x/xScreenWarp.s"
+  },
+  {
+    "start": "8005C878",
+    "end": "8005F4B4",
+    "path": "asm/Core/x/xScrFx.s"
+  },
+  {
+    "start": "8005F4B8",
+    "end": "800602EC",
+    "path": "asm/Core/x/xserializer.s"
+  },
+  {
+    "start": "800602F0",
+    "end": "800638C8",
+    "path": "asm/Core/x/xShadow.s"
+  },
+  {
+    "start": "800638CC",
+    "end": "80064BE0",
+    "path": "asm/Core/x/xShadowSimple.s"
+  },
+  {
+    "start": "80064BE4",
+    "end": "80064F4C",
+    "path": "asm/Core/x/xSkyDome.s"
+  },
+  {
+    "start": "80064F50",
+    "end": "80067B74",
+    "path": "asm/Core/x/xSndMgr.s"
+  },
+  {
+    "start": "80067B78",
+    "end": "80067FD0",
+    "path": "asm/Core/x/xSoundFX.s"
+  },
+  {
+    "start": "80067FD4",
+    "end": "80069358",
+    "path": "asm/Core/x/xSpacePartitionTree.s"
+  },
+  {
+    "start": "8006935C",
+    "end": "8006A874",
+    "path": "asm/Core/x/xSpline.s"
+  },
+  {
+    "start": "8006A878",
+    "end": "8006BB2C",
+    "path": "asm/Core/x/xSplineAsset.s"
+  },
+  {
+    "start": "8006BB30",
+    "end": "8006CC1C",
+    "path": "asm/Core/x/xstransvc.s"
+  },
+  {
+    "start": "8006CC20",
+    "end": "8006DD54",
+    "path": "asm/Core/x/xString.s"
+  },
+  {
+    "start": "8006DD58",
+    "end": "8006E0A4",
+    "path": "asm/Core/x/xSubTitles.s"
+  },
+  {
+    "start": "8006E0A8",
+    "end": "8006E1C4",
+    "path": "asm/Core/x/xSurface.s"
+  },
+  {
+    "start": "8006E1C8",
+    "end": "8006E25C",
+    "path": "asm/Core/x/xTextAsset.s"
+  },
+  {
+    "start": "8006E260",
+    "end": "8006EF24",
+    "path": "asm/Core/x/xTextureManager.s"
+  },
+  {
+    "start": "8006EF28",
+    "end": "8006F338",
+    "path": "asm/Core/x/xTimer.s"
+  },
+  {
+    "start": "8006F33C",
+    "end": "8006F3BC",
+    "path": "asm/Core/x/xTransient.s"
+  },
+  {
+    "start": "8006F3C0",
+    "end": "8006FA1C",
+    "path": "asm/Core/x/xTRC.s"
+  },
+  {
+    "start": "8006FA20",
+    "end": "80070390",
+    "path": "asm/Core/x/xUpdateCull.s"
+  },
+  {
+    "start": "80070394",
+    "end": "8007161C",
+    "path": "asm/Core/x/xutil.s"
+  },
+  {
+    "start": "80071620",
+    "end": "80071760",
+    "path": "asm/Core/x/xVec3.s"
+  },
+  {
+    "start": "80071764",
+    "end": "80071828",
+    "path": "asm/Core/x/xVolume.s"
+  },
+  {
+    "start": "8007182C",
+    "end": "8007311C",
+    "path": "asm/Core/p2/iAnimSKB.s"
+  },
+  {
+    "start": "80073120",
+    "end": "8007333C",
+    "path": "asm/Core/p2/iAsync.s"
+  },
+  {
+    "start": "80073340",
+    "end": "80073C58",
+    "path": "asm/Core/p2/iCutscene.s"
+  },
+  {
+    "start": "80073C5C",
+    "end": "80073EC4",
+    "path": "asm/Core/p2/iDraw.s"
+  },
+  {
+    "start": "80073EC8",
+    "end": "80074718",
+    "path": "asm/Core/p2/iEnv.s"
+  },
+  {
+    "start": "8007471C",
+    "end": "80074ED8",
+    "path": "asm/Core/p2/iFile.s"
+  },
+  {
+    "start": "80074EDC",
+    "end": "800761B0",
+    "path": "asm/Core/p2/iFMV.s"
+  },
+  {
+    "start": "800761B4",
+    "end": "800764DC",
+    "path": "asm/Core/p2/iFX.s"
+  },
+  {
+    "start": "800764E0",
+    "end": "800767E4",
+    "path": "asm/Core/p2/iLight.s"
+  },
+  {
+    "start": "800767E8",
+    "end": "800768B0",
+    "path": "asm/Core/p2/iMath.s"
+  },
+  {
+    "start": "800768B4",
+    "end": "8007812C",
+    "path": "asm/Core/p2/iMath3.s"
+  },
+  {
+    "start": "80078130",
+    "end": "80079028",
+    "path": "asm/Core/p2/iMemMgr.s"
+  },
+  {
+    "start": "8007902C",
+    "end": "8007AF4C",
+    "path": "asm/Core/p2/iModel.s"
+  },
+  {
+    "start": "8007AF50",
+    "end": "8007B7F0",
+    "path": "asm/Core/p2/iMorph.s"
+  },
+  {
+    "start": "8007B7F4",
+    "end": "8007C068",
+    "path": "asm/Core/p2/iPad.s"
+  },
+  {
+    "start": "8007C06C",
+    "end": "8007EDA4",
+    "path": "asm/Core/p2/isavegame.s"
+  },
+  {
+    "start": "8007EDA8",
+    "end": "8007FA5C",
+    "path": "asm/Core/p2/iScrFX.s"
+  },
+  {
+    "start": "8007FA60",
+    "end": "800813D0",
+    "path": "asm/Core/p2/iSnd.s"
+  },
+  {
+    "start": "800813D4",
+    "end": "80081B4C",
+    "path": "asm/Core/p2/iSystem.s"
+  },
+  {
+    "start": "80081B50",
+    "end": "80082388",
+    "path": "asm/Core/p2/iTime.s"
+  },
+  {
+    "start": "8008238C",
+    "end": "80083788",
+    "path": "asm/Core/p2/iTRC.s"
+  },
+  {
+    "start": "8008378C",
+    "end": "80083DE8",
+    "path": "asm/Core/p2/iAnim.s"
+  },
+  {
+    "start": "80083DEC",
+    "end": "80084580",
+    "path": "asm/GAME/zZipLine.s"
+  },
+  {
+    "start": "80084584",
+    "end": "8008486C",
+    "path": "asm/GAME/zAnimCache.s"
+  },
+  {
+    "start": "80084870",
+    "end": "80084C80",
+    "path": "asm/GAME/zAnimList.s"
+  },
+  {
+    "start": "80084C84",
+    "end": "8008690C",
+    "path": "asm/GAME/zAssetTypes.s"
+  },
+  {
+    "start": "80086910",
+    "end": "80087A2C",
+    "path": "asm/GAME/zBulletTime.s"
+  },
+  {
+    "start": "80087A30",
+    "end": "80088238",
+    "path": "asm/GAME/zCam.s"
+  },
+  {
+    "start": "8008823C",
+    "end": "8008836C",
+    "path": "asm/GAME/zCameraFly.s"
+  },
+  {
+    "start": "80088370",
+    "end": "80088958",
+    "path": "asm/GAME/zCameraTweak.s"
+  },
+  {
+    "start": "8008895C",
+    "end": "80088CB0",
+    "path": "asm/GAME/zCamFP.s"
+  },
+  {
+    "start": "80088CB4",
+    "end": "80089498",
+    "path": "asm/GAME/zCamMarker.s"
+  },
+  {
+    "start": "8008949C",
+    "end": "8008C444",
+    "path": "asm/GAME/zCamPlayer.s"
+  },
+  {
+    "start": "8008C448",
+    "end": "8008CC2C",
+    "path": "asm/GAME/zCamSwing.s"
+  },
+  {
+    "start": "8008CC30",
+    "end": "8008E228",
+    "path": "asm/GAME/zCheat.s"
+  },
+  {
+    "start": "8008E22C",
+    "end": "8008E5BC",
+    "path": "asm/GAME/zCollGeom.s"
+  },
+  {
+    "start": "8008E5C0",
+    "end": "80090464",
+    "path": "asm/GAME/zCombat.s"
+  },
+  {
+    "start": "80090468",
+    "end": "80090738",
+    "path": "asm/GAME/zCombatCombo.s"
+  },
+  {
+    "start": "8009073C",
+    "end": "80093C7C",
+    "path": "asm/GAME/zCombatEffects.s"
+  },
+  {
+    "start": "80093C80",
+    "end": "80095200",
+    "path": "asm/GAME/zCombatLaser.s"
+  },
+  {
+    "start": "80095204",
+    "end": "80095528",
+    "path": "asm/GAME/zCombatSystem.s"
+  },
+  {
+    "start": "8009552C",
+    "end": "8009F67C",
+    "path": "asm/GAME/zCommonPlayer.s"
+  },
+  {
+    "start": "8009F680",
+    "end": "8009FA74",
+    "path": "asm/GAME/zConditional.s"
+  },
+  {
+    "start": "8009FA78",
+    "end": "8009FF1C",
+    "path": "asm/GAME/zConfiguration.s"
+  },
+  {
+    "start": "8009FF20",
+    "end": "800A09C4",
+    "path": "asm/GAME/zCutsceneMgr.s"
+  },
+  {
+    "start": "800A09C8",
+    "end": "800ABC14",
+    "path": "asm/GAME/zDashPlayer.s"
+  },
+  {
+    "start": "800ABC18",
+    "end": "800ADA50",
+    "path": "asm/GAME/zDestructible.s"
+  },
+  {
+    "start": "800ADA54",
+    "end": "800AEF34",
+    "path": "asm/GAME/zDispatcher.s"
+  },
+  {
+    "start": "800AEF38",
+    "end": "800AF914",
+    "path": "asm/GAME/zDuplicator.s"
+  },
+  {
+    "start": "800AF918",
+    "end": "800B0360",
+    "path": "asm/GAME/zEGenerator.s"
+  },
+  {
+    "start": "800B0364",
+    "end": "800BD558",
+    "path": "asm/GAME/zElastiGirlPlayer.s"
+  },
+  {
+    "start": "800BD55C",
+    "end": "800BECF4",
+    "path": "asm/GAME/zEnt.s"
+  },
+  {
+    "start": "800BECF8",
+    "end": "800BF90C",
+    "path": "asm/GAME/zEntButton.s"
+  },
+  {
+    "start": "800BF910",
+    "end": "800BFDFC",
+    "path": "asm/GAME/zEntHangable.s"
+  },
+  {
+    "start": "800BFE00",
+    "end": "800C22E0",
+    "path": "asm/GAME/zEntSimpleObj.s"
+  },
+  {
+    "start": "800C22E4",
+    "end": "800C2AF8",
+    "path": "asm/GAME/zEntTrigger.s"
+  },
+  {
+    "start": "800C2AFC",
+    "end": "800C2EE8",
+    "path": "asm/GAME/zEnv.s"
+  },
+  {
+    "start": "800C2EEC",
+    "end": "800C7FC4",
+    "path": "asm/GAME/zExplosion.s"
+  },
+  {
+    "start": "800C7FC8",
+    "end": "800CBDE8",
+    "path": "asm/GAME/zFire.s"
+  },
+  {
+    "start": "800CBDEC",
+    "end": "800CC908",
+    "path": "asm/GAME/zFlameEmitter.s"
+  },
+  {
+    "start": "800CC90C",
+    "end": "800CCA7C",
+    "path": "asm/GAME/zFMV.s"
+  },
+  {
+    "start": "800CCA80",
+    "end": "800CCAF8",
+    "path": "asm/GAME/zFX.s"
+  },
+  {
+    "start": "800CCAFC",
+    "end": "800CCD7C",
+    "path": "asm/GAME/zFXRibbonPool.s"
+  },
+  {
+    "start": "800CCD80",
+    "end": "800CEF54",
+    "path": "asm/GAME/zGame.s"
+  },
+  {
+    "start": "800CEF58",
+    "end": "800CF7D4",
+    "path": "asm/GAME/zGameExtras.s"
+  },
+  {
+    "start": "800CF7D8",
+    "end": "800CFC34",
+    "path": "asm/GAME/zGameState.s"
+  },
+  {
+    "start": "800CFC38",
+    "end": "800CFFF4",
+    "path": "asm/GAME/zGrapple.s"
+  },
+  {
+    "start": "800CFFF8",
+    "end": "800D085C",
+    "path": "asm/GAME/zGrid.s"
+  },
+  {
+    "start": "800D0860",
+    "end": "800D159C",
+    "path": "asm/GAME/zHangable.s"
+  },
+  {
+    "start": "800D15A0",
+    "end": "800D1620",
+    "path": "asm/GAME/zHitParameters.s"
+  },
+  {
+    "start": "800D1624",
+    "end": "800D19E0",
+    "path": "asm/GAME/zHud.s"
+  },
+  {
+    "start": "800D19E4",
+    "end": "800D39E8",
+    "path": "asm/GAME/zHudIncredimeter.s"
+  },
+  {
+    "start": "800D39EC",
+    "end": "800D3B68",
+    "path": "asm/GAME/zHudTextureFlasher.s"
+  },
+  {
+    "start": "800D3B6C",
+    "end": "800DA3E8",
+    "path": "asm/GAME/zIncrediBallPlayer.s"
+  },
+  {
+    "start": "800DA3EC",
+    "end": "800DD110",
+    "path": "asm/GAME/zLaserBeam.s"
+  },
+  {
+    "start": "800DD114",
+    "end": "800DD860",
+    "path": "asm/GAME/zLight.s"
+  },
+  {
+    "start": "800DD864",
+    "end": "800DDCC8",
+    "path": "asm/GAME/zLightEffect.s"
+  },
+  {
+    "start": "800DDCCC",
+    "end": "800E0138",
+    "path": "asm/GAME/zLightning.s"
+  },
+  {
+    "start": "800E013C",
+    "end": "800E03F4",
+    "path": "asm/GAME/zLightWeight.s"
+  },
+  {
+    "start": "800E03F8",
+    "end": "800E0AC8",
+    "path": "asm/GAME/zLOD.s"
+  },
+  {
+    "start": "800E0ACC",
+    "end": "800E34A0",
+    "path": "asm/GAME/zMain.s"
+  },
+  {
+    "start": "800E34A4",
+    "end": "800E4514",
+    "path": "asm/GAME/zMenu.s"
+  },
+  {
+    "start": "800E4518",
+    "end": "800E46E4",
+    "path": "asm/GAME/zMovePoint.s"
+  },
+  {
+    "start": "800E46E8",
+    "end": "800FD308",
+    "path": "asm/GAME/zMrIncrediblePlayer.s"
+  },
+  {
+    "start": "800FD30C",
+    "end": "800FDEC4",
+    "path": "asm/GAME/zMusic.s"
+  },
+  {
+    "start": "800FDEC8",
+    "end": "800FEAC4",
+    "path": "asm/GAME/zNPC.s"
+  },
+  {
+    "start": "800FEAC8",
+    "end": "800FF320",
+    "path": "asm/GAME/zNPCArmor.s"
+  },
+  {
+    "start": "800FF324",
+    "end": "80100E3C",
+    "path": "asm/GAME/zNPCBehavior.s"
+  },
+  {
+    "start": "80100E40",
+    "end": "8010667C",
+    "path": "asm/GAME/zNPCBehaviorFX.s"
+  },
+  {
+    "start": "80106680",
+    "end": "8011F7BC",
+    "path": "asm/GAME/zNPCBossOmnidroid.s"
+  },
+  {
+    "start": "8011F7C0",
+    "end": "80121218",
+    "path": "asm/GAME/zNPCCar.s"
+  },
+  {
+    "start": "8012121C",
+    "end": "801213C4",
+    "path": "asm/GAME/zNPCCombat.s"
+  },
+  {
+    "start": "801213C8",
+    "end": "80121BA0",
+    "path": "asm/GAME/zNPCFriendly.s"
+  },
+  {
+    "start": "80121BA4",
+    "end": "80123A6C",
+    "path": "asm/GAME/zNPCLobber.s"
+  },
+  {
+    "start": "80123A70",
+    "end": "8012BA88",
+    "path": "asm/GAME/zNPCMelee.s"
+  },
+  {
+    "start": "8012BA8C",
+    "end": "8012CAA8",
+    "path": "asm/GAME/zNPCMeleeShielded.s"
+  },
+  {
+    "start": "8012CAAC",
+    "end": "8012D29C",
+    "path": "asm/GAME/zNPCMgr.s"
+  },
+  {
+    "start": "8012D2A0",
+    "end": "8012DF4C",
+    "path": "asm/GAME/zNPCMine.s"
+  },
+  {
+    "start": "8012DF50",
+    "end": "80130EB0",
+    "path": "asm/GAME/zNPCNavigation.s"
+  },
+  {
+    "start": "80130EB4",
+    "end": "8013302C",
+    "path": "asm/GAME/zNPCNavigationMesh.s"
+  },
+  {
+    "start": "80133030",
+    "end": "80133A5C",
+    "path": "asm/GAME/zNPCOracle.s"
+  },
+  {
+    "start": "80133A60",
+    "end": "80136780",
+    "path": "asm/GAME/zNPCShooter.s"
+  },
+  {
+    "start": "80136784",
+    "end": "8013C434",
+    "path": "asm/GAME/zNPCTank.s"
+  },
+  {
+    "start": "8013C438",
+    "end": "8013F0AC",
+    "path": "asm/GAME/zNPCTurret.s"
+  },
+  {
+    "start": "8013F0B0",
+    "end": "80140444",
+    "path": "asm/GAME/zNPCTypes.s"
+  },
+  {
+    "start": "80140448",
+    "end": "80145CAC",
+    "path": "asm/GAME/zNPCVelocipod.s"
+  },
+  {
+    "start": "80145CB0",
+    "end": "80145EAC",
+    "path": "asm/GAME/zNPCWaterhose.s"
+  },
+  {
+    "start": "80145EB0",
+    "end": "8014642C",
+    "path": "asm/GAME/zPendulum.s"
+  },
+  {
+    "start": "80146430",
+    "end": "80149F28",
+    "path": "asm/GAME/zPlatform.s"
+  },
+  {
+    "start": "80149F2C",
+    "end": "80150310",
+    "path": "asm/GAME/zPlayer.s"
+  },
+  {
+    "start": "80150314",
+    "end": "80150754",
+    "path": "asm/GAME/zPlayerBase.s"
+  },
+  {
+    "start": "80150758",
+    "end": "80150900",
+    "path": "asm/GAME/zPortal.s"
+  },
+  {
+    "start": "80150904",
+    "end": "801509D4",
+    "path": "asm/GAME/zReference.s"
+  },
+  {
+    "start": "801509D8",
+    "end": "801519A4",
+    "path": "asm/GAME/zRenderState.s"
+  },
+  {
+    "start": "801519A8",
+    "end": "80155BC0",
+    "path": "asm/GAME/zSaveLoad.s"
+  },
+  {
+    "start": "80155BC4",
+    "end": "8015ADE0",
+    "path": "asm/GAME/zScene.s"
+  },
+  {
+    "start": "8015ADE4",
+    "end": "8015B244",
+    "path": "asm/GAME/zScript.s"
+  },
+  {
+    "start": "8015B248",
+    "end": "8015B914",
+    "path": "asm/GAME/zshell.s"
+  },
+  {
+    "start": "8015B918",
+    "end": "8015E340",
+    "path": "asm/GAME/zShrapnel.s"
+  },
+  {
+    "start": "8015E344",
+    "end": "8015E740",
+    "path": "asm/GAME/zSlideCamera.s"
+  },
+  {
+    "start": "8015E744",
+    "end": "8015F83C",
+    "path": "asm/GAME/zSurface.s"
+  },
+  {
+    "start": "8015F840",
+    "end": "8015F848",
+    "path": "asm/GAME/zSymbol.s"
+  },
+  {
+    "start": "8015F84C",
+    "end": "80162D70",
+    "path": "asm/GAME/zTalkBox.s"
+  },
+  {
+    "start": "80162D74",
+    "end": "80163668",
+    "path": "asm/GAME/zTaskBox.s"
+  },
+  {
+    "start": "8016366C",
+    "end": "80164690",
+    "path": "asm/GAME/zTextBox.s"
+  },
+  {
+    "start": "80164694",
+    "end": "801660C8",
+    "path": "asm/GAME/zTrainCar.s"
+  },
+  {
+    "start": "801660CC",
+    "end": "8016635C",
+    "path": "asm/GAME/zTrainPath.s"
+  },
+  {
+    "start": "80166360",
+    "end": "801667C0",
+    "path": "asm/GAME/zTransient.s"
+  },
+  {
+    "start": "801667C4",
+    "end": "80168244",
+    "path": "asm/GAME/zTurret.s"
+  },
+  {
+    "start": "80168248",
+    "end": "8016A134",
+    "path": "asm/GAME/zUI.s"
+  },
+  {
+    "start": "8016A138",
+    "end": "8016AFD8",
+    "path": "asm/GAME/zUIBox.s"
+  },
+  {
+    "start": "8016AFDC",
+    "end": "8016BF44",
+    "path": "asm/GAME/zUIImage.s"
+  },
+  {
+    "start": "8016BF48",
+    "end": "8016CD48",
+    "path": "asm/GAME/zUIMgr.s"
+  },
+  {
+    "start": "8016CD4C",
+    "end": "8016D35C",
+    "path": "asm/GAME/zUIModel.s"
+  },
+  {
+    "start": "8016D360",
+    "end": "8016DB68",
+    "path": "asm/GAME/zUIText.s"
+  },
+  {
+    "start": "8016DB6C",
+    "end": "8016DFDC",
+    "path": "asm/GAME/zUIUserString.s"
+  },
+  {
+    "start": "8016DFE0",
+    "end": "8016F2C0",
+    "path": "asm/GAME/zVar.s"
+  },
+  {
+    "start": "8016F2C4",
+    "end": "801701B0",
+    "path": "asm/GAME/zVioletPlayer.s"
+  },
+  {
+    "start": "801701B4",
+    "end": "8017072C",
+    "path": "asm/GAME/zVolume.s"
+  },
+  {
+    "start": "80170730",
+    "end": "80173190",
+    "path": "asm/GAME/zWaterhose.s"
+  },
+  {
+    "start": "80173194",
+    "end": "80173384",
+    "path": "asm/GAME/zActionLine.s"
+  },
+  {
+    "start": "80173388",
+    "end": "80174900",
+    "path": "asm/Core/x/xCollideSpherePolygon.s"
+  },
+  {
+    "start": "80174904",
+    "end": "80174C60",
+    "path": "asm/GAME/zAsync.s"
+  },
+  {
+    "start": "80174C64",
+    "end": "801763FC",
+    "path": "asm/Core/x/xParticleBatch.s"
+  },
+  {
+    "start": "80176400",
+    "end": "8017721C",
+    "path": "asm/GAME/zSmoke.s"
+  },
+  {
+    "start": "80177220",
+    "end": "8017B294",
+    "path": "asm/GAME/zSplash.s"
+  },
+  {
+    "start": "8017B298",
+    "end": "8017BE60",
+    "path": "asm/GAME/zNPCNavigationMeshDriven.s"
+  },
+  {
+    "start": "8017BE64",
+    "end": "8017DBA4",
+    "path": "asm/GAME/zDashCam.s"
+  },
+  {
+    "start": "8017DBA8",
+    "end": "80180EA0",
+    "path": "asm/GAME/zNPCRobotBehavior.s"
+  },
+  {
+    "start": "80180EA4",
+    "end": "80182D18",
+    "path": "asm/GAME/zIncrediSlam.s"
+  },
+  {
+    "start": "80182D1C",
+    "end": "80183824",
+    "path": "asm/Core/x/xScrPulseGlare.s"
+  },
+  {
+    "start": "80183828",
+    "end": "80184784",
+    "path": "asm/GAME/zBehavior.s"
+  },
+  {
+    "start": "80184788",
+    "end": "80184888",
+    "path": "asm/GAME/zWater.s"
+  },
+  {
+    "start": "8018488C",
+    "end": "80185960",
+    "path": "asm/GAME/zIncrediBallCam.s"
+  },
+  {
+    "start": "80185964",
+    "end": "80185ABC",
+    "path": "asm/GAME/zTimeHandler.s"
+  },
+  {
+    "start": "80185AC0",
+    "end": "80185B8C",
+    "path": "asm/GAME/zBulletMarkAsset.s"
+  },
+  {
+    "start": "80185B90",
+    "end": "80187FA8",
+    "path": "asm/Core/x/xCollideSweptSphere.s"
+  },
+  {
+    "start": "80187FAC",
+    "end": "80189D90",
+    "path": "asm/GAME/zNPCCommon.s"
+  },
+  {
+    "start": "80189D94",
+    "end": "80189F1C",
+    "path": "asm/Core/x/xScreenFade.s"
+  },
+  {
+    "start": "80189F20",
+    "end": "8018B034",
+    "path": "asm/GAME/zNPCWeapon.s"
+  },
+  {
+    "start": "8018B038",
+    "end": "8018D334",
+    "path": "asm/Core/x/xCollideSphereBox.s"
+  },
+  {
+    "start": "8018D338",
+    "end": "8018F180",
+    "path": "asm/GAME/zNPCInvisAware.s"
+  },
+  {
+    "start": "8018F184",
+    "end": "80190B40",
+    "path": "asm/GAME/zNPCBotLob.s"
+  },
+  {
+    "start": "80190B44",
+    "end": "80192B90",
+    "path": "asm/GAME/zDashTrack.s"
+  },
+  {
+    "start": "80192B94",
+    "end": "80193B58",
+    "path": "asm/GAME/zReticle.s"
+  },
+  {
+    "start": "80193B5C",
+    "end": "80196A54",
+    "path": "asm/GAME/zGrass.s"
+  },
+  {
+    "start": "80196A58",
+    "end": "801977A4",
+    "path": "asm/Core/x/xFXCameraTexture.s"
+  },
+  {
+    "start": "801977A8",
+    "end": "80198A28",
+    "path": "asm/Core/x/xFXHighDynamicRange.s"
+  },
+  {
+    "start": "80198A2C",
+    "end": "80199CEC",
+    "path": "asm/Core/x/xCollideSpherePolygonUnprocessed.s"
+  },
+  {
+    "start": "80199CF0",
+    "end": "8019D964",
+    "path": "asm/GAME/zInteraction.s"
+  },
+  {
+    "start": "8019D968",
+    "end": "8019E37C",
+    "path": "asm/GAME/zNPCSenses.s"
+  },
+  {
+    "start": "8019E380",
+    "end": "8019FA6C",
+    "path": "asm/GAME/zBomb.s"
+  },
+  {
+    "start": "8019FA70",
+    "end": "8019FEEC",
+    "path": "asm/GAME/zProgressScript.s"
+  },
+  {
+    "start": "8019FEF0",
+    "end": "801A07E4",
+    "path": "asm/Core/x/xHudText.s"
+  },
+  {
+    "start": "801A07E8",
+    "end": "801A3678",
+    "path": "asm/GAME/zFlameThrower.s"
+  },
+  {
+    "start": "801A367C",
+    "end": "801A43D0",
+    "path": "asm/GAME/zNPCFlyShooter.s"
+  },
+  {
+    "start": "801A43D4",
+    "end": "801A5CDC",
+    "path": "asm/GAME/zRocket.s"
+  },
+  {
+    "start": "801A5CE0",
+    "end": "801A995C",
+    "path": "asm/Core/x/xHudImage.s"
+  },
+  {
+    "start": "801A9960",
+    "end": "801AC708",
+    "path": "asm/GAME/zNPCMeleeBot.s"
+  },
+  {
+    "start": "801AC70C",
+    "end": "801AE12C",
+    "path": "asm/GAME/zReactiveAnimation.s"
+  },
+  {
+    "start": "801AE130",
+    "end": "801AF410",
+    "path": "asm/GAME/zDust.s"
+  },
+  {
+    "start": "801AF414",
+    "end": "801AF7F0",
+    "path": "asm/GAME/zHudDiskIndicator.s"
+  },
+  {
+    "start": "801AF7F4",
+    "end": "801AF7F8",
+    "path": "asm/Core/x/xProjectedTexture.s"
+  },
+  {
+    "start": "801AF7FC",
+    "end": "801B1880",
+    "path": "asm/GAME/zSpotlight.s"
+  },
+  {
+    "start": "801B1884",
+    "end": "801B2E50",
+    "path": "asm/GAME/zPickup.s"
+  },
+  {
+    "start": "801B2E54",
+    "end": "801B2EDC",
+    "path": "asm/GAME/zNPCGroup.s"
+  },
+  {
+    "start": "801B2EE0",
+    "end": "801B5AB0",
+    "path": "asm/GAME/zThrowableSystem.s"
+  },
+  {
+    "start": "801B5AB4",
+    "end": "801B79FC",
+    "path": "asm/GAME/zNPCHelibot.s"
+  },
+  {
+    "start": "801B7A00",
+    "end": "801B862C",
+    "path": "asm/GAME/zHudDashMeter.s"
+  },
+  {
+    "start": "801B8630",
+    "end": "801C18FC",
+    "path": "asm/GAME/zNPCBossOmnidroid10.s"
+  },
+  {
+    "start": "801C1900",
+    "end": "801C582C",
+    "path": "asm/GAME/zNPCBotLeap.s"
+  },
+  {
+    "start": "801C5830",
+    "end": "801C5968",
+    "path": "asm/GAME/zUIController.s"
+  },
+  {
+    "start": "801C596C",
+    "end": "801C5C68",
+    "path": "asm/Core/x/xLightVolume.s"
+  },
+  {
+    "start": "801C5C6C",
+    "end": "801C7A90",
+    "path": "asm/GAME/zUICustom.s"
+  },
+  {
+    "start": "801C7A94",
+    "end": "801CDBAC",
+    "path": "asm/GAME/zUIIncredibles.s"
+  },
+  {
+    "start": "801CDBB0",
+    "end": "801CE0EC",
+    "path": "asm/Core/x/xMemoryManager.s"
+  },
+  {
+    "start": "801CE0F0",
+    "end": "801CE21C",
+    "path": "asm/Core/x/xMemoryManagerFixed.s"
+  },
+  {
+    "start": "801CE220",
+    "end": "801CEEC0",
+    "path": "asm/Core/x/xMemoryManagerGeneral.s"
+  },
+  {
+    "start": "801CEEC4",
+    "end": "801CEF14",
+    "path": "asm/Core/p2/iException.s"
+  },
+  {
+    "start": "801CEF18",
+    "end": "801CF8D4",
+    "path": "asm/GAME/zParticleGenerator.s"
+  },
+  {
+    "start": "801CF8D8",
+    "end": "801D0C4C",
+    "path": "asm/GAME/zParticleLocator.s"
+  },
+  {
+    "start": "801D0C50",
+    "end": "801D0D6C",
+    "path": "asm/GAME/zParticleSystems.s"
+  },
+  {
+    "start": "801D0D70",
+    "end": "801D2DB8",
+    "path": "asm/GAME/zParticleSystemWaterfall.s"
+  },
+  {
+    "start": "801D2DBC",
+    "end": "801D33D8",
+    "path": "asm/GAME/zTurretSmoke.s"
+  },
+  {
+    "start": "801D33DC",
+    "end": "801D4C8C",
+    "path": "asm/GAME/zUberLaser.s"
+  },
+  {
+    "start": "801D4C90",
+    "end": "801D522C",
+    "path": "asm/GAME/zLoadingScreen.s"
+  },
+  {
+    "start": "801D5230",
+    "end": "801D6D1C",
+    "path": "asm/Core/x/xModelBlur.s"
+  },
+  {
+    "start": "801D6D20",
+    "end": "801D7B10",
+    "path": "asm/Core/p2/iWater.s"
+  },
+  {
+    "start": "801D7B14",
+    "end": "801D812C",
+    "path": "asm/Core/p2/fxembm.s"
+  },
+  {
+    "start": "801D8130",
+    "end": "801D83A0",
+    "path": "asm/Core/p2/fxmain.s"
+  },
+  {
+    "start": "801D83A4",
+    "end": "801D8604",
+    "path": "asm/Core/p2/texcache.s"
+  },
+  {
+    "start": "801D8608",
+    "end": "801D898C",
+    "path": "asm/Core/p2/texconv.s"
+  },
+  {
+    "start": "801D8990",
+    "end": "801D8A6C",
+    "path": "asm/Core/p2/textures.s"
+  },
+  {
+    "start": "801D8A70",
+    "end": "801D9760",
+    "path": "asm/GAME/zEnergyStream.s"
+  },
+  {
+    "start": "801D9764",
+    "end": "801DA03C",
+    "path": "asm/GAME/zNPCSmoke.s"
+  },
+  {
+    "start": "801DA040",
+    "end": "801DAE88",
+    "path": "asm/GAME/zNPCStreamer.s"
+  },
+  {
+    "start": "801DAE8C",
+    "end": "801DECFC",
+    "path": "asm/GAME/zNPCBossBombChopper.s"
+  },
+  {
+    "start": "801DED00",
+    "end": "801DEEC4",
+    "path": "asm/GAME/zCameraRBand.s"
+  },
+  {
+    "start": "801DEEC8",
+    "end": "801DEEE4",
+    "path": "asm/GAME/zWireFrameAsset.s"
+  },
+  {
+    "start": "801DEEE8",
+    "end": "801DF090",
+    "path": "asm/GAME/zJSPExtraData.s"
+  },
+  {
+    "start": "801DF094",
+    "end": "801E0898",
+    "path": "asm/GAME/zRubbleGenerator.s"
+  },
+  {
+    "start": "801E089C",
+    "end": "801E33B0",
+    "path": "asm/GAME/zParticleFXCommon.s"
+  },
+  {
+    "start": "801E33B4",
+    "end": "801E4634",
+    "path": "asm/GAME/zHudBossMeter.s"
+  },
+  {
+    "start": "801E4638",
+    "end": "801E4870",
+    "path": "asm/Core/x/containers.s"
+  },
+  {
+    "start": "801E4874",
+    "end": "801E4D04",
+    "path": "asm/Core/x/xFunctionGenerator.s"
+  },
+  {
+    "start": "801E4D08",
+    "end": "801E4E8C",
+    "path": "asm/Core/x/xModelWarp.s"
+  },
+  {
+    "start": "801E4E90",
+    "end": "801E58C8",
+    "path": "asm/GAME/zCombo.s"
+  },
+  {
+    "start": "801E58CC",
+    "end": "801E94C0",
+    "path": "asm/GAME/zRubbleSystem.s"
+  },
+  {
+    "start": "801E94C4",
+    "end": "801E9EF4",
+    "path": "asm/GAME/zNPCPlayers.s"
+  },
+  {
+    "start": "801E9EF8",
+    "end": "801E9F24",
+    "path": "asm/GAME/zCineFXShared.s"
+  },
+  {
+    "start": "801E9F28",
+    "end": "801EA538",
+    "path": "asm/GAME/zCineFX.s"
+  },
+  {
+    "start": "801EA53C",
+    "end": "801ECE6C",
+    "path": "asm/GAME/zFrozoneIce.s"
+  },
+  {
+    "start": "801ECE70",
+    "end": "801ECEAC",
+    "path": "asm/Core/x/xRenderBuffer.s"
+  },
+  {
+    "start": "801ECEB0",
+    "end": "801ED664",
+    "path": "asm/GAME/zFXFireTrail.s"
+  },
+  {
+    "start": "801ED668",
+    "end": "801EE6C8",
+    "path": "asm/GAME/zFXEnergySystem.s"
+  },
+  {
+    "start": "801EE6CC",
+    "end": "801EF850",
+    "path": "asm/GAME/zUICustomBattleModeSelectScene.s"
+  },
+  {
+    "start": "801EF854",
+    "end": "801EFC38",
+    "path": "asm/GAME/zUICustomSysMessage.s"
+  },
+  {
+    "start": "801EFC3C",
+    "end": "801F045C",
+    "path": "asm/GAME/zUICustomBattleModeSelectPlayer.s"
+  },
+  {
+    "start": "801F0460",
+    "end": "801F09E4",
+    "path": "asm/Core/p2/iARAMTmp.s"
+  },
+  {
+    "start": "801F09E8",
+    "end": "801F0F18",
+    "path": "asm/GAME/zCamPreset.s"
+  },
+  {
+    "start": "801F0F1C",
+    "end": "801F3050",
+    "path": "asm/GAME/zCineFXIN.s"
+  },
+  {
+    "start": "801F3054",
+    "end": "801F3540",
+    "path": "asm/GAME/zSparkEmitter.s"
+  },
+  {
+    "start": "801F3544",
+    "end": "801F3904",
+    "path": "asm/GAME/zToss.s"
+  },
+  {
+    "start": "801F3908",
+    "end": "801F3F98",
+    "path": "asm/GAME/zHudFamilyMeter.s"
+  },
+  {
+    "start": "801F3F9C",
+    "end": "801F4234",
+    "path": "asm/Core/x/xIM.s"
+  },
+  {
+    "start": "801F4238",
+    "end": "801F5EA0",
+    "path": "asm/GAME/zParticleCustom.s"
+  },
+  {
+    "start": "801F5EA4",
+    "end": "801F6A48",
+    "path": "asm/GAME/zShrapnelEmitter.s"
+  },
+  {
+    "start": "801F6A4C",
+    "end": "801F7CDC",
+    "path": "asm/GAME/zSmashRing.s"
+  },
+  {
+    "start": "801F7CE0",
+    "end": "801F9268",
+    "path": "asm/GAME/zTransientModel.s"
+  },
+  {
+    "start": "801F926C",
+    "end": "801FA668",
+    "path": "asm/GAME/zIncrediBallEffect.s"
+  }
+]
