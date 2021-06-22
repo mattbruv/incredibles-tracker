@@ -52,7 +52,7 @@ export default class ProgressBanner extends React.Component {
       <section className="hero">
         <div className="hero-body">
           <p className="title">
-            Battle for Bikini Bottom is{" "}
+            Incredibles is{" "}
             <span className="">{this.percentDone()}%</span> decompiled
           </p>
           <p className="subtitle">

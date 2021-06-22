@@ -30,7 +30,7 @@ function getHeatmapData() {
 
     data.push(point);
     column++;
-    if (column >= 20) {
+    if (column >= 25) {
       column = 0;
       row++;
     }

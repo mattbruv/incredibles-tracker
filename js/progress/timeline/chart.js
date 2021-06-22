@@ -173,10 +173,10 @@ export function makeTimeline(options) {
             return template;
           },
         },
-        color: "#fff56c",
-        lineColor: "#aead0d",
+        color: "#d52d12",
+        lineColor: "#aa0a00",
         marker: {
-          fillColor: "#aead0d",
+          fillColor: "#d52d12",
         },
 
         // makes it so the y axis changes upon zooming
@@ -201,7 +201,7 @@ export function makeTimeline(options) {
             return template;
           },
         },
-        color: "#ed7f8c",
+        color: "#f4b900",
 
         // makes it so the y axis changes upon zooming
         threshold: null,

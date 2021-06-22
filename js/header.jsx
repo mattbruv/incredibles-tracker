@@ -14,10 +14,10 @@ export default class Header extends React.Component {
             <Link className="navbar-item" to="functions">
               Functions
             </Link>
-            */}
             <Link className="navbar-item" to="functions">
               Functions
             </Link>
+            */}
             {/*
             <Link className="navbar-item" to="discoveries">
               Discoveries
@@ -35,7 +35,7 @@ export default class Header extends React.Component {
                   target="_blank"
                   rel="noreferrer"
                   className="button"
-                  href="https://www.github.com/bfbbdecomp/bfbb"
+                  href="https://www.github.com/seilweiss/incredibles"
                 >
                   <span className="icon">
                     <i className="fab fa-github"></i>
@@ -46,7 +46,7 @@ export default class Header extends React.Component {
                   target="_blank"
                   rel="noreferrer"
                   className="button is-discord"
-                  href="https://discord.gg/dVbGFdYU6A"
+                  href="https://discord.gg/9eAE6UB"
                 >
                   <span className="icon">
                     <i className="fab fa-discord"></i>
