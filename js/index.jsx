@@ -15,7 +15,7 @@ import Functions from "./functions/functions";
 import Discoveries from "./discoveries/discoveries";
 
 function getBasePath() {
-  return process.env.NODE_ENV === "development" ? "" : "bfbb";
+  return process.env.NODE_ENV === "development" ? "" : "incredibles";
 }
 
 // Router Switch renders the first page which matches
