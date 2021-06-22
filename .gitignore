@@ -1,0 +1,9 @@
+node_modules/
+__pycache__/
+data/
+dist/
+.cache/
+
+*.pyc
+package-lock.json
+symbols.txt
