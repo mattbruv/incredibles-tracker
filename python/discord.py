@@ -21,16 +21,15 @@ milestones = {  #
 
 template = """
 ```
-Battle for Bikini Bottom is {donePercent}% decompiled
+Incredibles is {donePercent}% decompiled
 {asmDone} / {asmTotal} lines of assembly. ({asmPercent}%) +{newLines}
 {funcsDone} / {funcsTotal} functions. ({funcPercent}%) +{newFuncs}
 ```
 """.strip()
 
 newPercent = """
-<:spongescream:600524132567744542>
 **WE HIT {percent}%!!!**
-<:SpongeNut:516367513236537364>
+<a:incredidance:856228937511600159>
 """.strip()
 
 payload = {
